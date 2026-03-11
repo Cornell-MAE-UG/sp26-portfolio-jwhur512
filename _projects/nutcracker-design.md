@@ -17,5 +17,5 @@ Given:
     - F(grip) = 200 N
 
 Solution:
-![A written solution with a drawn diagram of the nutcracker design problem]({{ '/assets/images/<nutcracker-diagram.jpg>' | relative_url }})
+![A written solution with a drawn diagram of the nutcracker design problem]({{ '/assets/images/nutcracker-diagram.jpg' | relative_url }})
 
