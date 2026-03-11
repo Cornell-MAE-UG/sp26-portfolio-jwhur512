@@ -19,5 +19,5 @@ Given:
 
 Solution:
 ![A written solution with a drawn diagram of the nutcracker design problem]({{ '/assets/images/nutcracker-diagram.jpg' | relative_url }}){: .inline-image-r
-style="width: 200px"}
+style="width: 800px"}
 
