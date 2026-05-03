@@ -3,7 +3,7 @@ layout: project
 title: Nutcracker Design
 description: Design a nutcracker using a linear actuator and beam bending analysis
 technologies: Mechanism, Machine
-image: /assets/images/nutcracker-beam.jpg
+image: /assets/images/nutcracker-linak.png
 ---
 
 As part of our class problem set/design problem, we were assigned to design a nutcracker under a specific restriction. This is how I approached the design problem.
